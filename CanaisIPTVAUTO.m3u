@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bMxWttg.gif" group-title="Canais IPTV AUTO",TV Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRyhNif.png" group-title="Canais IPTV AUTO",Record News HD
+https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1FYgVKl.png" group-title="Canais IPTV AUTO",BandNews
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0pSIQoz.png" group-title="Canais IPTV AUTO",CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j0Vtaky.png" group-title="Canais IPTV AUTO",tvdnews
+http://201.159.95.210:8000/play/a001/15761168.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1PahEF.jpeg" group-title="Canais IPTV AUTO",Rede Humaitá
+https://sae12.playlist.ttvnw.net/v1/playlist/Cv0F7IB1etZ5BeR4Z8tw2fQ2ZCoGPGBpjik02TsucI0_l31Mxjbs_WOJP9V0__-L2jN7r2T85oVn1AwLra7xh9J2deedBKt5VQv8UMkgnr9vw21HGuGwXH7W6G1RKLYZUgPcp741OEmZTsfHm8HKGFC8yosnsIB21Wd_y0ntwddtaWEpG0i_rK_KBFqAXVLdwbAoDsKSOvlrhDo7g_gXIoWBFZLdaAiK4_0auo0FQpMr1CjkozuGCQNpR7vukI0Ll2GMGbQNEcq_OisLpf1JIaFNU2DbED5jYzAmemv98bia1G7x2tjezjmqHclXSjAm-c1MU9pzyx9jL5gr0Ro18wZl4TLWBHxkvI2QVXms0SRZzZvulcxq0rtFvDA6Vu23zYlARnc8728ieu-_WNOaBN8PJEN1QjvD6d-ztdeOt19uKXWM7quMFpfIgJVt7dfvWMhebkhUrm38LZw669CXG4o14nDfEEiJc1erPz4dTbJTBm1CKpqZdsbnH9gMLamIF82qdmvFflWRXriyOM-K9urHjxBZUguXbnV2SwuQSU_Coh3CTswIno4UIWUtVUMYWDYhWptIf00Am0Y3vh0cyitXY9ljzPyZiNXuM-ACIDLEL1eq7IQ5ZnQvhcUGM1N4NAOPEuaatQVxArMBCdAJ2i2w41wQ-b4AlOTpFW0c_mBoPcvURj_3PPB9EK5f90r-0PqjRzuPiPM2h7YdGXk9NhDCMKf025_0YRsSWSkzypEM4gkFGxAVDGs9g1gxONziATjqjLNqJVLOUidUsNE4uQ27i923I2S7vczo7KbqlfXVK5Ho10W6eK36Azd0hQR3DVlCHbi0kVZBqOCxuCdH2sCz3W9vrUnlpi41SnoID9dF_E_mmieN5dTKtB-tJDVIk78Az0nwzfmdWRkWBbBcHVFEyFq91boV9gUGU9fvp0sIVO9fncewYnhmeAwBlS_Ejq5zOsplEmF6X3cW5d29hSTNstOFcDwvi2AWFHTNZoHJSQ0AUs9KEwRg6RwkVcxlGgxWpzV7DysfbIYSs5ggASoJdXMtZWFzdC0yMIEM.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/acba19e3ed71defe8689421fe17b19ce.webp" group-title="Canais IPTV AUTO",Times Brasil (CNBC)
+https://video01.soultv.com.br/timesbrasil/timesbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRyhNif.png" group-title="Canais IPTV AUTO",Record News
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
