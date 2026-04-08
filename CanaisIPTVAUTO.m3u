@@ -89,6 +89,9 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bc4b7e61e1dc1d6e21310964acd99139.webp" group-title="FILMES & SÉRIES",Xtreme TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/956249947191e0e94a5a4768b952d303.webp" group-title="FILMES & SÉRIES",ISTV
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/playlist.m3u8
+
 
 # ==================== ABERTOS ====================
 
@@ -140,7 +143,7 @@ https://tv03.zas.media:1936/rsplay/rsplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",Rede NGT
 https://isaocorp.cloudecast.com/ngt/tracks-v1/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",Rede Metrópole
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6598fcc9b0153916209adbd6b39af5ab.webp" group-title="ABERTOS",Rede Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",TV Da Gente
@@ -178,6 +181,8 @@ https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",TV Ceará
 https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",TV Ceará
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",TV Cancao Nova
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
