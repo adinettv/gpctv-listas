@@ -2,34 +2,34 @@
 
 # ==================== ESPORTE ====================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fut_logo.png" group-title="ESPORTE",CazéTV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed777683fdb619972ae85298a4925b40.webp" group-title="ESPORTE",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fut_logo.png" group-title="ESPORTE",Canal do Inter
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4czCPCQ.png" group-title="ESPORTE",Canal do Inter
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fut_logo.png" group-title="ESPORTE",Combate Global
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4czCPCQ.png" group-title="ESPORTE",Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fut_logo.png" group-title="ESPORTE",All Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4czCPCQ.png" group-title="ESPORTE",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fut_logo.png" group-title="ESPORTE",Motorvision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4czCPCQ.png" group-title="ESPORTE",Motorvision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fut_logo.png" group-title="ESPORTE",Ponte Preta
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4czCPCQ.png" group-title="ESPORTE",Ponte Preta
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fut_logo.png" group-title="ESPORTE",Unique Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4czCPCQ.png" group-title="ESPORTE",Unique Sports
 https://video05.logicahost.com.br/uniquetvsports/uniquetvsports/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fut_logo.png" group-title="ESPORTE",Vitrine Esporte
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4czCPCQ.png" group-title="ESPORTE",Vitrine Esporte
 https://cdn.live.br1.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
 
 
 # ==================== FILMES & SÉRIES ====================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",CineMonde
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4czCPCQ.png" group-title="FILMES & SÉRIES",CineMonde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",DarkFlix
@@ -41,64 +41,64 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",RunTime
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e598d43eaf39f79c2fa72da53417ac6d.webp" group-title="FILMES & SÉRIES",RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",RunTime Ação
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/11891ee8913e61a918d8a4e559d4e082.webp" group-title="FILMES & SÉRIES",RunTime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",RunTime Suspense e Terror
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f37d55780687ac603e39c26592ae36a9.webp" group-title="FILMES & SÉRIES",RunTime Suspense e Terror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",RunTime Comédia
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4ff89e686c06012903a0f2459566cf28.webp" group-title="FILMES & SÉRIES",RunTime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",RunTime Crime
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8a40c36d262b4f5ca7b67d869892f3c7.webp" group-title="FILMES & SÉRIES",RunTime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",RunTime Família
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d6f47c2615736b266095f9687b3f27ab.webp" group-title="FILMES & SÉRIES",RunTime Família
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",Soul Cine Clube
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4czCPCQ.png" group-title="FILMES & SÉRIES",Soul Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",Sony One Cinema
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp" group-title="FILMES & SÉRIES",Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",CinePIX TV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="FILMES & SÉRIES",CinePIX TV
 https://stream.ads.ottera.tv/cl/260408d7apvcncceuoaglga68g/1920x1080_6046040_3_f.m3u8?i=728_6178
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",GLN TV (Filmes)
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="FILMES & SÉRIES",GLN TV (Filmes)
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",Web Tv Cine
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES & SÉRIES",Web Tv Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",Web Tv Clássicos do Cinema
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="FILMES & SÉRIES",Web Tv Clássicos do Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",Retro Cartoon
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="FILMES & SÉRIES",Retro Cartoon
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",Canal 29
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcb3ff84b8f31ddc39ef213b42402f75.webp" group-title="FILMES & SÉRIES",Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",TVI Ficção
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="FILMES & SÉRIES",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",Xtreme TV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bc4b7e61e1dc1d6e21310964acd99139.webp" group-title="FILMES & SÉRIES",Xtreme TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
 
 # ==================== ABERTOS ====================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",TV Jovem Pan News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bMxWttg.gif" group-title="ABERTOS",TV Jovem Pan News
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",Record News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRyhNif.png" group-title="ABERTOS",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",SBT News
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cc174cca08ed6deddcd11082f0834a5a.webp" group-title="ABERTOS",SBT News
 https://sbtnews.maissbt.com/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",BandNews
