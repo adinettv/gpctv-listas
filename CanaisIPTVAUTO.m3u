@@ -31,6 +31,8 @@ https://cdn.live.br1.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4czCPCQ.png" group-title="FILMES & SÉRIES",CineMonde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3e1cf45d955a59f31b70a2a4223e6556.webp" group-title="FILMES & SÉRIES",Tv Channel Network 
+https://tvchannel.tvr.ovh/video28392/video28392//playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/filme_logo.png" group-title="FILMES & SÉRIES",DarkFlix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
@@ -186,6 +188,17 @@ https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",TV Cancao Nova
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp" group-title="ABERTOS",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad098033466e6a8f12678abed2172f66.webp" group-title="ABERTOS",Top TV
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a4702cdca0afcaf32b119d6035963bf5.webp" group-title="ABERTOS",Rede Mundo TV
+https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
+
+
 
 
 # ==================== INFANTIL ====================
@@ -448,11 +461,17 @@ https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uhkE57U.png" group-title="RELIGIOSOS",Boas Novas
 https://cdn.jmvstream.com/w/AVJ-12960/playlist/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="png" group-title="RELIGIOSOS",RIT TV 
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jivwnZX.png" group-title="RELIGIOSOS",Tenda TV
 https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f0Obc3c.png" group-title="RELIGIOSOS",REDE CRISTÃ DE TELEVISÃO
-https://stmv2.srvsh.com.br/rede/rede/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f333f62031ea09120c0612d302fe366c.webp" group-title="RELIGIOSOS",TV Feliz 
+https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d7f49791e616fcd5b861ea042066e4a.webp" group-title="RELIGIOSOS",Rede Universo TV
+https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDOjVX7.png" group-title="RELIGIOSOS",TV Aparecida
 https://caikron.com.br:8082/aparecida/aparecida/playlist.m3u8
