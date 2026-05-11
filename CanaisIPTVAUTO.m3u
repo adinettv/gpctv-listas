@@ -121,8 +121,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1f78c1c51ebc3ce8018528eb5a634646.webp" group-title="ABERTOS",TV Marajoara 
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",TVCI
-https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e6d3c0b09c4da55520dde4ad36c1c3b5.webp" group-title="ABERTOS",TV ONE
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",Redetv
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
