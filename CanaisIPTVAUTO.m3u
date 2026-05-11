@@ -118,8 +118,8 @@ https://live2.eu-north-1b.cf.dmcdn.net/sec2(N3F9WoJzgbacFn79J4hsrBPw28Oz0xZMfXiM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",RBATV (Band PA)
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",TV Gazeta GO
-https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1f78c1c51ebc3ce8018528eb5a634646.webp" group-title="ABERTOS",TV Marajoara 
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",TVCI
 https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
@@ -136,8 +136,8 @@ https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",TV Clube RN
 https://radios.braviahost.com.br:2020/hls/tvclubern/1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",TV Litoral RN
-https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp" group-title="ABERTOS",RBATV (Band PA)
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tv_logo.png" group-title="ABERTOS",RS Play TV
 https://tv03.zas.media:1936/rsplay/rsplay/playlist.m3u8
@@ -217,6 +217,14 @@ https://video01.brascast.com/gente8322/gente8322/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b06045459e9dd13f6615af8f1c755002.webp" group-title="ABERTOS",TV Alternativa (Gazeta MA)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6c6caecb84bf23336169d45168c46e51.webp" group-title="ABERTOS",TVR - Tv Regional Paulista
+https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ee0925d20ba168e94efefb495e58f103.webp" group-title="ABERTOS",Canal Solo Fértil
+https://stream.canalsolofertil.com.br/live/canalsolofertil/main_stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b68ceee26212c27dca7a885602969d9c.webp" group-title="ABERTOS",TVCI 
+https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
+
 
 
 
