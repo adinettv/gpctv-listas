@@ -198,6 +198,27 @@ https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a4702cdca0afcaf32b119d6035963bf5.webp" group-title="ABERTOS",Rede Mundo TV
 https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RXhNhEd.png" group-title="ABERTOS",Mais TV Brasil
+https://isaocorp.cloudecast.com/maistv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/30b45f0a3f3893cb10b2e72b196586e3.webp" group-title="ABERTOS",Tv Tudo BH
+https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
+#EXTINF:-1 tvg-logo="IMG" group-title="ABERTOS",TV Poços
+https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c29d2e57bae0e3c9f5a2e805a38afda0.webp" group-title="ABERTOS",TV Litoral RN
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7c86ec8b8fe0aa34e5a7830a5174d785.webp" group-title="ABERTOS",TV Clube
+https://streaming.cloudecast.com/hls/rederecon/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/29e36ad62ed2f52f7631ec5c5faf91a7.webp" group-title="ABERTOS",TV Gazeta GO
+https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bd526263166472f4465a9ad331b23858.webp" group-title="ABERTOS",TV Capital - Canal Promessas
+https://video01.brascast.com/gente8322/gente8322/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b06045459e9dd13f6615af8f1c755002.webp" group-title="ABERTOS",TV Alternativa (Gazeta MA)
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+
+
 
 
 
