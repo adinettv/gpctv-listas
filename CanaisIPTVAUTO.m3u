@@ -225,15 +225,17 @@ https://stream.canalsolofertil.com.br/live/canalsolofertil/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b68ceee26212c27dca7a885602969d9c.webp" group-title="ABERTOS",TVCI 
 https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bbcbd9c502664757184f48a121393d12.webp" group-title="ABERTOS",TV Vila Real (Record MT)
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/playlist.m3u8
 
 
 # ==================== INFANTIL ====================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kids_logo.png" group-title="INFANTIL",BabyFirst
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b4cd2b4135c03b25ffe91155d90de53f.webp" group-title="INFANTIL",Ministério Infantil
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kids_logo.png" group-title="INFANTIL",Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
