@@ -281,7 +281,8 @@ https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae3270712e80a6ee4cd2dd542fcc48c6.webp" group-title="VARIEDADES",Tv Carioca Internacional
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9377ffea26ec8397e8502cf6569ec24e.webp" group-title="VARIEDADES",Tv Mega Brasil 
+https://video01.brascast.com/sergio7305/sergio7305/playlist.m3u8
 
 # ==================== CULTURA ====================
 
