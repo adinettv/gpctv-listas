@@ -269,6 +269,16 @@ https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c1a66d2a8875494eeca6a47a9f64a8d8.webp" group-title="VARIEDADES",Canal Once Del Zulia 
 https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7bb03f2570993c82583a8ce9f2e1a4c4.webp" group-title="VARIEDADES",Rede Mais Família
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ede7e5de6ca676517ca7197759c16e7.webp" group-title="VARIEDADES",Rede  Família
+https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cdcf0e0f226888e2e9e521b911842177.webp" group-title="VARIEDADES",That's 80s
+https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8
+
+
 
 # ==================== CULTURA ====================
 
@@ -399,7 +409,7 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uhkE57U.png" group-title="RELIGIOSOS",Boas Novas
-https://cdn.jmvstream.com/w/AVJ-12960/playlist/chunklist.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="png" group-title="RELIGIOSOS",RIT TV 
 https://acesso.ecast.site:3648/live/ritlive.m3u8
