@@ -266,6 +266,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346
 #EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",Trace Brazuca
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c1a66d2a8875494eeca6a47a9f64a8d8.webp" group-title="VARIEDADES",Canal Once Del Zulia 
+https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
+
 
 # ==================== CULTURA ====================
 
@@ -472,3 +475,10 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="RELIGIOSOS",TV Terceiro Anjo
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3c8aa9786f48bcbd9df5c6deee82407a.webp" group-title="RELIGIOSOS",Sobrenatural TV
+https://live.wayone.cloud/waytv/waytv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzVFWsy.png" group-title="RELIGIOSOS",ADB TV
+https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
+
