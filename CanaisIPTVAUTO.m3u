@@ -202,6 +202,9 @@ https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",Central TV Brasil
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1da8fb88aef9df3483c940df68b87cf.webp" group-title="VARIEDADES" Nossa Tv (Cultura RN)
+https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",Coletiva TV
 https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
 
