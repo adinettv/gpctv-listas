@@ -250,7 +250,7 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",TV Gramado
 https://isaocorp.cloudecast.com/tvgramado/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",TV Grande Natal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TdgIRio.png" group-title="VARIEDADES",TV Grande Natal
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",TV Marchetti
