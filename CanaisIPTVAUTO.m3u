@@ -208,7 +208,7 @@ https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",Coletiva TV
 https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",Com Brasil
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/715b5339fc8e47b249dd28acd3ee19b0.webp" group-title="VARIEDADES",Com Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",D+ TV
@@ -219,9 +219,6 @@ https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",NGT SP
-https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",Primer TV
 http://200.194.238.229:8383/live/primer/playlist.m3u8
@@ -285,9 +282,6 @@ https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7bb03f2570993c82583a8ce9f2e1a4c4.webp" group-title="VARIEDADES",Rede Mais Família
 https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ede7e5de6ca676517ca7197759c16e7.webp" group-title="VARIEDADES",Rede  Família
-https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cdcf0e0f226888e2e9e521b911842177.webp" group-title="VARIEDADES",That's 80s
 https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8
@@ -411,15 +405,6 @@ https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/news_logo.png" group-title="NOTICIAS",TV Sim São Mateus
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/news_logo.png" group-title="NOTICIAS",Pluto TV Investigação
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/news_logo.png" group-title="NOTICIAS",Pluto TV Natureza
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/news_logo.png" group-title="NOTICIAS",Pluto TV Vida Real
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 
 # ==================== RELIGIOSOS ====================
 
@@ -489,7 +474,7 @@ https://68882bdaf156a.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="RELIGIOSOS",Evangelizar TV
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5uTSYY6.png" group-title="RELIGIOSOS",Novo Tempo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sILqaWn.png" group-title="RELIGIOSOS",Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f35Nxu2.png" group-title="RELIGIOSOS",SBN Global
