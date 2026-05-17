@@ -521,3 +521,6 @@ https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/438e55201f5c93fccaa8dc0897434386.webp" group-title="RELIGIOSOS",Canal Mas (Uruguay)
 https://tv.canalmasuruguay.com/hls/canalmas.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0579c7a5ad75d73104244131bfb40921.webp" group-title="RELIGIOSOS", Tv Avivando Nações 
+https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
