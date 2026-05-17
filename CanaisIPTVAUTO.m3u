@@ -196,6 +196,9 @@ https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",Bem Mais TV
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71b0f9abc764972773cad092b8610c03.webp" group-title="VARIEDADES" TV Capital - Fortaleza
+https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",Central TV Brasil
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
 
@@ -291,6 +294,9 @@ https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/pl
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9377ffea26ec8397e8502cf6569ec24e.webp" group-title="VARIEDADES",Tv Mega Brasil 
 https://video01.brascast.com/sergio7305/sergio7305/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/89c3db340826f67f3d37e8cd4df05a5e.webp" group-title="VARIEDADES" Telefuturo
+https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w921164665.m3u8
 
 # ==================== CULTURA ====================
 
@@ -472,7 +478,10 @@ https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-b.m3u8
 https://streaming01.zas.media/gideoes/tv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7aDImxx.png" group-title="RELIGIOSOS",TV MUNDIAL
-https://58a4464faef53.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8
+https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7aDImxx.png" group-title="RELIGIOSOS",Interteve TV
+https://68882bdaf156a.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="RELIGIOSOS",Evangelizar TV
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
