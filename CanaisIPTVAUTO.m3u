@@ -196,6 +196,9 @@ https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",Bem Mais TV
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/erxVWk4.png" group-title="VARIEDADES", New lifefm - Carapicuiba
+https://video02.logicahost.com.br/newlifefm/newlifefm/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71b0f9abc764972773cad092b8610c03.webp" group-title="VARIEDADES" TV Capital - Fortaleza
 https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
 
