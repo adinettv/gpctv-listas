@@ -27,6 +27,8 @@ https://video05.logicahost.com.br/uniquetvsports/uniquetvsports/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
 
 # ==================== FILMES & SÉRIES ====================
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8b3db993ee7151d22256f51b36ecdb43.webp" group-title="FILMES & SÉRIES",Adrenalina Pura TV
+https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZ6ZgQ5.png" group-title="FILMES & SÉRIES",CineMonde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
@@ -55,6 +57,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pq2RZDg.png" group-title="FILMES & SÉRIES",RunTime Suspense e Terror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d8e9cfe9b910731a2ba29ede0a63cacd.webp" group-title="FILMES & SÉRIES",Runtime Comédia
+https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qN76aLF.png" group-title="FILMES & SÉRIES",RunTime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 
@@ -63,6 +68,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qN76aLF.png" group-title="FILMES & SÉRIES",RunTime Família
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42ad5ffc09cbd3ffd6139d6fcfa234f6.webp" group-title="FILMES & SÉRIES",Cindie Lite
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352/variant/22099961.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/18848a63594b3a990cf008bf2f9dfd6d.webp" group-title="FILMES & SÉRIES",Sessão Trash
+https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xhOcMWl.jpeg" group-title="FILMES & SÉRIES",Soul Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
