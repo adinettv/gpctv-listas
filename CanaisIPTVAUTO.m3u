@@ -199,7 +199,7 @@ https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71b0f9abc764972773cad092b8610c03.webp" group-title="VARIEDADES" TV Capital - Fortaleza
 https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",Central TV Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQ92uvQ.png" group-title="VARIEDADES",Central TV Brasil
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1da8fb88aef9df3483c940df68b87cf.webp" group-title="VARIEDADES" Nossa Tv (Cultura RN)
@@ -293,7 +293,10 @@ https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/pl
 https://video01.brascast.com/sergio7305/sergio7305/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/89c3db340826f67f3d37e8cd4df05a5e.webp" group-title="VARIEDADES" Telefuturo
-https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w921164665.m3u8
+https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w825847344.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/423124d5c6c21ef24553145ac0701e1e.webp" group-title="VARIEDADES" TVC Rio
+https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 
 # ==================== CULTURA ====================
 
