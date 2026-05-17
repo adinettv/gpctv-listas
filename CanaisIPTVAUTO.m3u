@@ -99,6 +99,9 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6PlgwAY.png" group-title="FILMES & SÉRIES",Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp" group-title="FILMES & SÉRIES", AWTV 
+https://awtv.nuvemplay.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/22Eqs9s.jpeg" group-title="FILMES & SÉRIES",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
@@ -137,7 +140,7 @@ https://live2.eu-north-1b.cf.dmcdn.net/sec2(N3F9WoJzgbacFn79J4hsrBPw28Oz0xZMfXiM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DfdskX8.png" group-title="ABERTOS",RBATV (Band PA)
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E5X5xPh.png" group-title="ABERTOS",TV Marajoara 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kBbXAf8.png" group-title="ABERTOS",TV Marajoara 
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFHTo1r.png" group-title="ABERTOS",TV ONE
@@ -187,7 +190,7 @@ https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wo7oLWb.jpg" group-title="VARIEDADES",RETRO MUSIC HD 
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",Rede Família
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hT552xm.png" group-title="VARIEDADES",Rede Família
 https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/var_logo.png" group-title="VARIEDADES",Bem Mais TV
@@ -330,7 +333,7 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/news_logo.png" group-title="NOTICIAS",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rQ9Irwa.png" group-title="NOTICIAS",TVO Venezuela
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lw3fkhi.png" group-title="NOTICIAS",TVO Venezuela
 https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/news_logo.png" group-title="NOTICIAS",NHK WORLD
@@ -507,5 +510,5 @@ https://live.wayone.cloud/waytv/waytv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzVFWsy.png" group-title="RELIGIOSOS",ADB TV
 https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/438e55201f5c93fccaa8dc0897434386.webp" group-title="RELIGIOSOS",Canal Mas
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/438e55201f5c93fccaa8dc0897434386.webp" group-title="RELIGIOSOS",Canal Mas (Uruguay)
 https://tv.canalmasuruguay.com/hls/canalmas.m3u8
