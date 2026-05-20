@@ -158,6 +158,9 @@ https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UO1fVUz.png" group-title="ABERTOS",TV Clube RN
 https://radios.braviahost.com.br:2020/hls/tvclubern/1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de686c104e47164ada190ac1ea2ab2a5.webp" group-title="ABERTOS",TVC Ourinhos
+https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8
+
 # ==================== INFANTIL ====================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kids_logo.png" group-title="INFANTIL",BabyFirst
