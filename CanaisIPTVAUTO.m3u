@@ -189,6 +189,9 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aa2ca6283eaf1e60a7b55f962120b934.webp" group-title="VARIEDADES", Alpha Channel
 https://maystreaming.cloudecast.com/alphachannel/tracks-v1/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Imbu5oa.png" group-title="VARIEDADES",Rede Utv
+https://utvsite.acessaradios.com.br/utvsite/_definst_/utvsite.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wo7oLWb.jpg" group-title="VARIEDADES",RETRO MUSIC HD 
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
