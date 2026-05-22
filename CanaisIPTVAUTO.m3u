@@ -189,6 +189,9 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aa2ca6283eaf1e60a7b55f962120b934.webp" group-title="VARIEDADES", Alpha Channel
 https://maystreaming.cloudecast.com/alphachannel/tracks-v1/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VPnkOs0.png" group-title="VARIEDADES", A NOVA TV RIO PRETO 
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Imbu5oa.png" group-title="VARIEDADES",Rede Utv
 https://utvsite.acessaradios.com.br/utvsite/_definst_/utvsite.stream/playlist.m3u8
 
@@ -420,7 +423,7 @@ https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 # ==================== RELIGIOSOS ====================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dNIo9Or.png" group-title="RELIGIOSOS",ADinet TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1779512377/ei/2d8QarqPF-u-4dUPxL_W6Q0/ip/2803:9810:4905:ab10:85d3:2a8f:5254:f464/id/lvTg2snSc0Q.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr13---sn-2obg05-cf.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwr5jrbGy2YGu4ZlcHik6HqhbyoTY-FlRnfZVK7PeBzcPTz_H_1ojo6ia5loZYA8S9pQ_KdTSzr_/spc/96Xrv0zatF3o0SFTsqvxsC4f2SbilM7jNhINwY2eQSVBVbEoew/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1227500/met/1779490778,/mh/vW/mm/44/mn/sn-2obg05-cf/ms/lva/mv/m/mvi/13/pl/40/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681/mt/1779490354/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAJeiacmNZhuUHBs_pWj4KA2XuqJfrexRWeWFUGLohOEWAiAGwxjcD0zsKoTP2EplNjnmBJjTeGNxGRC9KOf9nJAuzQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAOcPW2lln8fbChuajFuvyGJNASKZUDsvkxC1lJFkWtuFAiAVBJpYdjQ75tdZ_zEPdd2z0rIKmymfxUafYdXfLSuXbA%3D%3D/playlist/index.m3u8
+https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvmHEbg.png" group-title="RELIGIOSOS",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
