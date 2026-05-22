@@ -308,13 +308,16 @@ https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w825
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/423124d5c6c21ef24553145ac0701e1e.webp" group-title="VARIEDADES" TVC Rio
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gQ7fkiG.png" group-title="VARIEDADES" TV LIFE AMÉRICA
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fsHIxoP.png" group-title="VARIEDADES" TV Ponto de Encontro
 https://stmv4.voxtvhd.com.br/tvpontodeencontro/tvpontodeencontro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES" 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NNfis2q.png" group-title="VARIEDADES"TV estado
+https://video01.brascast.com/82b92cec/82b92cec/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES" 
 
 
