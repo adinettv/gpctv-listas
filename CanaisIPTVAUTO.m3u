@@ -184,6 +184,14 @@ https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kids_logo.png" group-title="INFANTIL",Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y7aT99g.png" group-title="INFANTIL",Kids Mais
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",
+
 
 # ==================== VARIEDADES ====================
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aa2ca6283eaf1e60a7b55f962120b934.webp" group-title="VARIEDADES", Alpha Channel
@@ -303,25 +311,27 @@ https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/pl
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9377ffea26ec8397e8502cf6569ec24e.webp" group-title="VARIEDADES",Tv Mega Brasil 
 https://video01.brascast.com/sergio7305/sergio7305/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/89c3db340826f67f3d37e8cd4df05a5e.webp" group-title="VARIEDADES" Telefuturo
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/89c3db340826f67f3d37e8cd4df05a5e.webp" group-title="VARIEDADES",Telefuturo
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w825847344.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/423124d5c6c21ef24553145ac0701e1e.webp" group-title="VARIEDADES" TVC Rio
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/423124d5c6c21ef24553145ac0701e1e.webp" group-title="VARIEDADES",TVC Rio
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gQ7fkiG.png" group-title="VARIEDADES" TV LIFE AMÉRICA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQ7fkiG.png" group-title="VARIEDADES", TV LIFE AMÉRICA
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fsHIxoP.png" group-title="VARIEDADES" TV Ponto de Encontro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fsHIxoP.png" group-title="VARIEDADES",TV Ponto de Encontro
 https://stmv4.voxtvhd.com.br/tvpontodeencontro/tvpontodeencontro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NNfis2q.png" group-title="VARIEDADES"TV estado
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NNfis2q.png" group-title="VARIEDADES",TV estado
 https://video01.brascast.com/82b92cec/82b92cec/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cfH1PJT.png" group-title="VARIEDADES" Noticias PY (Red Guaraní)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfH1PJT.png" group-title="VARIEDADES", Noticias PY (Red Guaraní)
 https://rds3tf.desdeparaguay.net/npy/npy_int_baja/chunklist_w1730656663.m3u8?k=6b438686722c3231a81af0c131cbeb89aafc511e3a63600812377191e049ddd6&exp=gpctv
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES" 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DBPzaCM.png" group-title="VARIEDADES", TV Florida
+https://cdn-tiva-srv6-zcast-com-br.smartbit.co/tvfloridausa/tvfloridausa/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES" 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES" 
 
@@ -546,3 +556,9 @@ https://tv.canalmasuruguay.com/hls/canalmas.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0579c7a5ad75d73104244131bfb40921.webp" group-title="RELIGIOSOS", Tv Avivando Nações 
 https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lq2MZ7M.png" group-title="RELIGIOSOS",Tv Adorar
+https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",
