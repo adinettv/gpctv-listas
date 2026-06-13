@@ -453,7 +453,7 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 # ==================== RELIGIOSOS ====================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dNIo9Or.png" group-title="RELIGIOSOS",ADinet TV
-http://adinet.gpcvox.com.br:8554/tv/index.m3u8
+https://bluesky-hp-probook-6560b.tail789b13.ts.net/tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dNIo9Or.png" group-title="RELIGIOSOS",ADinet TV 2
 http://adinet.duckdns.org:8554/tv/index.m3u8
