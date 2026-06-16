@@ -117,10 +117,10 @@ https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/playlis
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RXhNhEd.png" group-title="ABERTOS",Mais TV
-https://v2.cloudecast.com/maistv/tracks-v1/index.fmp4.m3u8
+https://v2.cloudecast.com/maistv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVugSnN.png" group-title="ABERTOS",NGT
-https://v2.cloudecast.com/redengt/tracks-v1/index.fmp4.m3u8
+https://v2.cloudecast.com/redengt/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRyhNif.png" group-title="ABERTOS",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
