@@ -172,6 +172,9 @@ https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kids_logo.png" group-title="INFANTIL",Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/875c68d876502060f56b9303cf91a09e.webp" group-title="INFANTIL" tvkidmais
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kids_logo.png" group-title="INFANTIL",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
@@ -329,6 +332,12 @@ https://video01.brascast.com/82b92cec/82b92cec/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cfH1PJT.png" group-title="VARIEDADES", Noticias PY (Red Guaraní)
 https://rds3tf.desdeparaguay.net/npy/npy_int_baja/chunklist_w1730656663.m3u8?k=6b438686722c3231a81af0c131cbeb89aafc511e3a63600812377191e049ddd6&exp=gpctv
 
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES" GMC TV
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/motionbrasiltv/motionbrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/27ea65b9595fc0e35a87ef7d1bb65895.webp" group-title="VARIEDADES" tvfloridausa
+https://cdn-tiva-srv6-zcast-com-br.smartbit.co/tvfloridausa/tvfloridausa/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES" 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES" 
 
@@ -455,7 +464,7 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dNIo9Or.png" group-title="RELIGIOSOS",ADinet TV
 http://tv.gpcvox.com.br:8554/tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dNIo9Or.png" group-title="RELIGIOSOS",ADinet TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dNIo9Or.png" group-title="RELIGIOSOS",ADinet TV (Off)
 http://192.168.31.158:8554/tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvmHEbg.png" group-title="RELIGIOSOS",Spirit TV
