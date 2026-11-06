@@ -29,6 +29,8 @@ https://cdn.live.br1.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efbce3d839ed87682745ad0899bc2066.webp" group-title="ESPORTE",Canal GOAT 
 https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e52e4eb2683190b28d72dd3f8aeb35d1.webp" group-title="ESPORTE",SFT Combat 
+https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8
 # ==================== FILMES & SÉRIES ====================
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8b3db993ee7151d22256f51b36ecdb43.webp" group-title="FILMES & SÉRIES",Adrenalina Pura TV
 https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
