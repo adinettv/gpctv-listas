@@ -116,6 +116,15 @@ https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RijIHjb.png" group-title="FILMES & SÉRIES",ISTV
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9UiY0ne.jpeg" group-title="FILMES & SÉRIES",TV MZ
+https://stmv4.voxtvhd.com.br/tvmz/tvmz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES & SÉRIES",
+#EXTINF:-1 tvg-logo="" group-title="FILMES & SÉRIES",
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES & SÉRIES",
+#EXTINF:-1 tvg-logo="" group-title="FILMES & SÉRIES",
+#EXTINF:-1 tvg-logo="" group-title="FILMES & SÉRIES",
 # ==================== ABERTOS ====================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4JZTQFo.png" group-title="ABERTOS",TV Jovem Pan News
