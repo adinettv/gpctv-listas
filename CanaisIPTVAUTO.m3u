@@ -605,5 +605,7 @@ https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 https://tv01.zas.media:1936/rtntv/rtntv/cplaylist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2E79b2k.jpeg" group-title="RELIGIOSOS", RIT TV
+https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",
