@@ -127,7 +127,7 @@ https://v2.cloudecast.com/maistv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVugSnN.png" group-title="ABERTOS",NGT
 https://v2.cloudecast.com/redengt/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRyhNif.png" group-title="ABERTOS",Record News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xlikOPn.jpeg" group-title="ABERTOS",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a7oxSap.png" group-title="ABERTOS",SBT News
@@ -349,6 +349,13 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cdf1d70775563c82db755b23081819ee.webp" group-title="VARIEDADES" Tv GRU Web
 https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GmVKhy.jpeg" group-title="VARIEDADES" TV Gazeta - Alagoas
+https://virtues.live:1936/tvmar/tvmar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWgnaOn.png" group-title="VARIEDADES" TV Caipira
+https://video10.logicahost.com.br/caipira/caipira/main_stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES" 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES" 
 
 
@@ -399,8 +406,8 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/news_logo.png" group-title="NOTICIAS",NHK WORLD
 https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/c2e0bd3bd02d18fc032dd5d462d58f63094856bfdad60eca71fa35f83fca3439/v1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/news_logo.png" group-title="NOTICIAS",tvdnews
-http://201.159.95.210:8000/play/a001/15761168.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",Record News
+https://stream.ads.ottera.tv/cl/261110dbpm4rgm5r8c7386gd7g/1920x1080_6046040_3_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/news_logo.png" group-title="NOTICIAS",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
@@ -429,7 +436,7 @@ http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/news_logo.png" group-title="NOTICIAS",Euronews Português
 https://euronews-live-por-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/eyJzdGlkIjoiOWE0ZWZmNzItMmE0ZC00NmFjLWIzZjgtNzJiNjIzODU3N2I5IiwibWt0IjoicHQiLCJjaCI6NjU3MiwicHRmIjo1fQ==/26035/euronews-pt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/news_logo.png" group-title="NOTICIAS",Record News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xlikOPn.jpeg" group-title="NOTICIAS",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/news_logo.png" group-title="NOTICIAS",RTP 3
@@ -581,6 +588,13 @@ https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lq2MZ7M.png" group-title="RELIGIOSOS",Tv Adorar
 https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ua5BIYx.jpeg" group-title="RELIGIOSOS", TV plenitude
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1hc9Mv1.png" group-title="RELIGIOSOS", TV Amor&Graça
+https://tv01.zas.media:1936/rtntv/rtntv/cplaylist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",
